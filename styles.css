@@ -17,7 +17,7 @@ body {
 
 
 h1 {
-  margin: 30px;
+  margin: 20px;
   font-family: 'Black Ops One', 'Lobster', cursive;
   text-shadow: 5px 0 #ccc;
   font-size: 8rem;
@@ -32,8 +32,7 @@ h2 {
   font-family: 'Lobster', 'cursive';
   font-size: 3rem;
 color: #28dbd5;
-  margin-bottom: 10px;
-width: 50%;
+width: 90%;
 
 }
 
