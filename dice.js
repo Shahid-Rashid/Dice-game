@@ -19,15 +19,15 @@ function setimg(num1, num2) {
 function winner(num1, num2) {
     setimg(num1, num2);
     if (num1 > num2) {
-        document.querySelector("h1").innerHTML = "Player 1 Wins";
+        document.querySelector("h2").innerHTML = "Player 1 Wins";
 
     }
     else if (num2 > num1) {
-        document.querySelector("h1").innerHTML = "Player 2 Wins";
+        document.querySelector("h2").innerHTML = "Player 2 Wins";
 
     }
     else {
-        document.querySelector("h1").innerHTML = "Draw";
+        document.querySelector("h2").innerHTML = "Draw";
     }
 }
 
