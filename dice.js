@@ -11,8 +11,8 @@ document.querySelector("#btn").addEventListener("click", function () {
 
 
 function setimg(num1, num2) {
-    document.querySelector(".img1").setAttribute("src", "./images/dice" + num1 + ".png");
-    document.querySelector(".img2").setAttribute("src", "./images/dice" + num2 + ".png");
+    document.querySelector(".img1").setAttribute("src", "./Images/dice" + num1 + ".png");
+    document.querySelector(".img2").setAttribute("src", "./Images/dice" + num2 + ".png");
 }
 
 
