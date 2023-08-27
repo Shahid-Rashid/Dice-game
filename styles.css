@@ -19,7 +19,7 @@ body {
 h1 {
   margin: 20px;
   font-family: 'Black Ops One', 'Lobster', cursive;
-  text-shadow: 5px 0 #ccc;
+  /*text-shadow: 5px 0 #ccc;*/
   font-size: 8rem;
   color: #28dbd5;
   width: 90%;
