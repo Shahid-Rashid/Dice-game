@@ -28,6 +28,15 @@ h1 {
   animation-iteration-count: infinite;
 }
 
+h2 {
+  font-family: 'Lobster', 'cursive';
+  font-size: 3rem;
+color: #28dbd5;
+  margin-bottom: 10px;
+width: 50%;
+
+}
+
 p {
   font-size: 2rem;
   color: #28dbd5;
@@ -113,6 +122,10 @@ hr {
   h1 {
     font-size: 3rem;
     font-weight: lighter;
+  }
+
+  h2 {
+    font-size: 2rem;
   }
 
   .dice>p {
